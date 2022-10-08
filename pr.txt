@@ -1,0 +1,51 @@
+Sunday —> 
+a) Progress 
+b) Challenges 
+c) New Things (Custom Hooks, Testing)
+
+URL, GitHub —> Submit
+
+Deploy AWS 
+GitHub
+
+1. Notes Taking App  (CRUD) - DB
+a) HandWritten Notes App
+Hint : HTML5 Canvas
+Login —> ram —> Ram Notes
+Login —> amit —> Amit Notes
+
+2. Online IDE (C++, Java, Python)
+(https://www.npmjs.com/package/@monaco-editor/react) - CodeEditor
+child_process (Trigger the JAVA , C++ , C , Python) / For React ( Call API’s) (https://www.jdoodle.com/compiler-api/) (Judge)
+Output —> Compile Fails , Execution
+
+Login OAuth (Login with Gmail , FaceBook) - FireBase OAuth
+
+
+3. Polling App 
+Author —> Question Ask —> Poll Create —> URL 
+URL Invite (Email  ).
+
+Answer Email —> Link Click —>(Login with Gmail , FaceBook)—> Answer
+
+Poll result
+
+4. Music Store - 
+Songs —>
+Latest Song—>
+Artist Song—>
+HTML5 Audio Tag
+PlayList, Login (Gmail , FB), 4 Song Ad Photo (20 Sec Counter)
+Payment GateWay (https://stripe.com/en-in) (Test API)
+
+5. Resume Builder
+3 Templates (Design)
+Fill the Data —> Generate Resume —> Download (PdfKit)
+Data —> Store DB 
+Login with Gmail, FaceBook
+
+
+
+
+
+
